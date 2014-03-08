@@ -1,0 +1,30 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "description": "just a test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zoitec/node-test.git"
+  },
+  "keywords": [
+    "test",
+    "node",
+    "package"
+  ],
+  "author": "Sean Joseph",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/zoitec/node-test/issues"
+  },
+  "dependencies": {
+    "logfmt": "~0.21.0",
+    "express": "~3.5.0"
+  },
+  "engines": {
+    "node": "1.8.3.4"
+  }
+}
